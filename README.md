@@ -1,7 +1,4 @@
-# Project software_test_visualization
-This project is part of my master thesis.
+# Project software test visualization
+Throughout my master thesis I developed a software test visualization prototype that aimes to support software test stakeholder to make informed decisions. 
 
 ## First File description
- The first file includes the software test visualization
-
- My changes
